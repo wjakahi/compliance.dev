@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/chs.compliance.client/js/chunk-vendors.794a3f60.js"
   },
   {
-    "revision": "79b1caf3d621dd8d760d",
-    "url": "/chs.compliance.client/js/app.cb770036.js"
+    "revision": "eb047d43fae323210b61",
+    "url": "/chs.compliance.client/js/app.b2659f71.js"
   },
   {
     "revision": "55c3099d5cb7fefc6f45",
     "url": "/chs.compliance.client/js/about.28f21103.js"
   },
   {
-    "revision": "fbb3e2adeeca7dcc94ded8b7efed1ba2",
+    "revision": "25a38c0effea0ec0a43fee2d569afe43",
     "url": "/chs.compliance.client/index.html"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/chs.compliance.client/css/chunk-vendors.ae226d06.css"
   },
   {
-    "revision": "79b1caf3d621dd8d760d",
+    "revision": "eb047d43fae323210b61",
     "url": "/chs.compliance.client/css/app.c6675b74.css"
   },
   {

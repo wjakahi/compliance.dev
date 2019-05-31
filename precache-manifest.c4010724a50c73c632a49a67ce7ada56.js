@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/chs.compliance.client/fonts/MaterialIcons-Regular.570eb838.woff2"
   },
   {
-    "revision": "61d9404ff38e52ec717d",
+    "revision": "cc7bae2081679a63bcfd",
     "url": "/chs.compliance.client/css/app.c6675b74.css"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/chs.compliance.client/js/chunk-vendors.6d07e966.js"
   },
   {
-    "revision": "c05e5ed281ef45478c09",
-    "url": "/chs.compliance.client/js/about.702bda28.js"
+    "revision": "f0c8c4183adaca2bf686",
+    "url": "/chs.compliance.client/js/about.81e3ec58.js"
   },
   {
-    "revision": "61d9404ff38e52ec717d",
-    "url": "/chs.compliance.client/js/app.70dada16.js"
+    "revision": "cc7bae2081679a63bcfd",
+    "url": "/chs.compliance.client/js/app.0412eb6f.js"
   },
   {
     "revision": "e79bfd88537def476913f3ed52f4f4b3",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/chs.compliance.client/fonts/MaterialIcons-Regular.a37b0c01.ttf"
   },
   {
-    "revision": "8af756058e46154eb24f9e205fe49c3b",
+    "revision": "f06c7075dff90369890a0bc4ae0500db",
     "url": "/chs.compliance.client/index.html"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/chs.compliance.client/img/chsli-logo.jpg"
   },
   {
-    "revision": "c05e5ed281ef45478c09",
-    "url": "/chs.compliance.client/css/about.4c0119d6.css"
+    "revision": "f0c8c4183adaca2bf686",
+    "url": "/chs.compliance.client/css/about.f1e0bf8e.css"
   }
 ];

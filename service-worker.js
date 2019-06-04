@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/chs.compliance.client/precache-manifest.c4010724a50c73c632a49a67ce7ada56.js"
+  "/chs.compliance.client/precache-manifest.163bd1eae8ffcf53755a5bfb1ffec8fe.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "chsli.compliance.client"});

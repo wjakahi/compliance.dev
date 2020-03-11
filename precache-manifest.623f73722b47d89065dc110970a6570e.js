@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "0509ab09c1b0d2200a4135803c91d6ce",
-    "url": "/chs.compliance.client/fonts/MaterialIcons-Regular.0509ab09.woff2"
+    "revision": "96c476804d7a788cc1c05351b287ee41",
+    "url": "/chs.compliance.client/fonts/MaterialIcons-Regular.96c47680.eot"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/chs.compliance.client/robots.txt"
   },
   {
-    "revision": "96c476804d7a788cc1c05351b287ee41",
-    "url": "/chs.compliance.client/fonts/MaterialIcons-Regular.96c47680.eot"
+    "revision": "0509ab09c1b0d2200a4135803c91d6ce",
+    "url": "/chs.compliance.client/fonts/MaterialIcons-Regular.0509ab09.woff2"
   },
   {
     "revision": "25a70487060ebe3d9929",

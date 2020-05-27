@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/compliance.prod/precache-manifest.416dd607d7232edb534cf1af12bda09b.js"
+  "/compliance.prod/precache-manifest.c022b8c5c222806fac9df9a4bae219dd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "chsli.compliance.client"});

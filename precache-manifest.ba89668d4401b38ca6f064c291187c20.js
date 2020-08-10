@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/compliance.prod/js/about.99ec7291.js"
   },
   {
-    "revision": "8f3a3bf991e3e80815ac",
+    "revision": "b8376f20d1b0ad100656",
     "url": "/compliance.prod/css/app.554e2a2d.css"
   },
   {
-    "revision": "8f3a3bf991e3e80815ac",
-    "url": "/compliance.prod/js/app.23cea57e.js"
+    "revision": "b8376f20d1b0ad100656",
+    "url": "/compliance.prod/js/app.3d3cbf5f.js"
   },
   {
     "revision": "0b1bbcb943f71d84f179",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/compliance.prod/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "d70ded4514428109c51541fd5e6b66c9",
+    "revision": "761c3e061052d4c63469555c35c8968b",
     "url": "/compliance.prod/index.html"
   },
   {

@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "0ba41f8f290aed5f5a11",
-    "url": "/compliance.dev/css/about.96a75e45.css"
+    "revision": "b8b9770f7c750b097608",
+    "url": "/compliance.dev/css/about.f604b21e.css"
   },
   {
-    "revision": "0ba41f8f290aed5f5a11",
-    "url": "/compliance.dev/js/about.2c9a816c.js"
+    "revision": "b8b9770f7c750b097608",
+    "url": "/compliance.dev/js/about.c453e8d4.js"
   },
   {
-    "revision": "0f8ca19b077a8aec4e1d",
+    "revision": "fd6fdfa60b519ca108d2",
     "url": "/compliance.dev/css/app.554e2a2d.css"
   },
   {
-    "revision": "0f8ca19b077a8aec4e1d",
-    "url": "/compliance.dev/js/app.c2628df5.js"
+    "revision": "fd6fdfa60b519ca108d2",
+    "url": "/compliance.dev/js/app.a6ef021b.js"
   },
   {
     "revision": "87c388a040b4b7d602ba",
@@ -28,10 +28,6 @@ self.__precacheManifest = [
     "url": "/compliance.dev/img/logo.34a0d7a9.png"
   },
   {
-    "revision": "0509ab09c1b0d2200a4135803c91d6ce",
-    "url": "/compliance.dev/fonts/MaterialIcons-Regular.0509ab09.woff2"
-  },
-  {
     "revision": "96c476804d7a788cc1c05351b287ee41",
     "url": "/compliance.dev/fonts/MaterialIcons-Regular.96c47680.eot"
   },
@@ -40,11 +36,15 @@ self.__precacheManifest = [
     "url": "/compliance.dev/fonts/MaterialIcons-Regular.29b882f0.woff"
   },
   {
+    "revision": "0509ab09c1b0d2200a4135803c91d6ce",
+    "url": "/compliance.dev/fonts/MaterialIcons-Regular.0509ab09.woff2"
+  },
+  {
     "revision": "da4ea5cdfca6b3baab285741f5ccb59f",
     "url": "/compliance.dev/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "5f968f839eb4e1e0f59d1fa3071797d2",
+    "revision": "9cc954e7b80744320a03204d28f26330",
     "url": "/compliance.dev/index.html"
   },
   {

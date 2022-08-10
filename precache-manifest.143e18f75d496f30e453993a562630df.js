@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/compliance.dev/js/about.a7e7ca6f.js"
   },
   {
-    "revision": "151a6c99f990e1b28fa8",
+    "revision": "7392fa9c90160ac718f8",
     "url": "/compliance.dev/css/app.554e2a2d.css"
   },
   {
-    "revision": "151a6c99f990e1b28fa8",
-    "url": "/compliance.dev/js/app.ed1a5148.js"
+    "revision": "7392fa9c90160ac718f8",
+    "url": "/compliance.dev/js/app.61910b28.js"
   },
   {
     "revision": "87c388a040b4b7d602ba",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/compliance.dev/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "8de3e2ee1245e1d6135a06bbc8920e0a",
+    "revision": "7ea4195faed9fec854faee479b1d6617",
     "url": "/compliance.dev/index.html"
   },
   {

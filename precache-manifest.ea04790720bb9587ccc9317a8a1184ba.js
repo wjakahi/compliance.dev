@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "/compliance.dev/js/about.a7e7ca6f.js"
   },
   {
-    "revision": "7392fa9c90160ac718f8",
+    "revision": "d8a6fe0856276e27b160",
     "url": "/compliance.dev/css/app.554e2a2d.css"
   },
   {
-    "revision": "7392fa9c90160ac718f8",
-    "url": "/compliance.dev/js/app.61910b28.js"
+    "revision": "d8a6fe0856276e27b160",
+    "url": "/compliance.dev/js/app.c067f934.js"
   },
   {
     "revision": "87c388a040b4b7d602ba",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/compliance.dev/img/logo.34a0d7a9.png"
   },
   {
-    "revision": "96c476804d7a788cc1c05351b287ee41",
-    "url": "/compliance.dev/fonts/MaterialIcons-Regular.96c47680.eot"
-  },
-  {
     "revision": "0509ab09c1b0d2200a4135803c91d6ce",
     "url": "/compliance.dev/fonts/MaterialIcons-Regular.0509ab09.woff2"
+  },
+  {
+    "revision": "96c476804d7a788cc1c05351b287ee41",
+    "url": "/compliance.dev/fonts/MaterialIcons-Regular.96c47680.eot"
   },
   {
     "revision": "29b882f018fa6fe75fd338aaae6235b8",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/compliance.dev/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "7ea4195faed9fec854faee479b1d6617",
+    "revision": "89234326a84bc09f1fdd488f7fef4026",
     "url": "/compliance.dev/index.html"
   },
   {
